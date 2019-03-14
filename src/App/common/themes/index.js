@@ -9,8 +9,7 @@ export const classic = {
    mainLight: '',
    secondary: '',
    secondaryDark: '',
-   secondaryLight: '',
-   
+   secondaryLight: ''
 };
 
 export const modern = {

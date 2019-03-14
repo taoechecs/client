@@ -9,5 +9,6 @@ const common = {
    black: '',
    textTitle: '',
    textParagraph: '',
-   textHighligh: ''
+   textHighligh: '',
+   textQuote: ''
 };
